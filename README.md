@@ -465,7 +465,7 @@ pip install -r requirements.txt
 python run.py
 ```
 
-**1.** Register → **2.** Login → **3.** Select Interface → **4.** Start Sniffing! 🚀
+**1.** Register → **2.** Login → **3.** Select Interface → **4.** Start Sniffing!
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
