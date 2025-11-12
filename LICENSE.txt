@@ -1,92 +1,51 @@
 # Non-Commercial Use License
 
-**adcAM Sniffer Network Analysis Tool**
+**adcAM Sniffer Network Analysis Tool**  
+Copyright © 2025 Amin Moniry (adc7). All rights reserved.
 
-Copyright (c) 2025 Amin_Moniry_adc7 Development Team. All rights reserved.
+## Permitted Uses
 
-## License Terms
+You may use this software for:
+- Personal, educational, and research purposes
+- Non-profit organization activities
+- Legitimate security testing and penetration testing
+- Modification for non-commercial purposes
+- Distribution of unmodified copies with this license
 
-This software and associated documentation files (the "Software") are licensed under the following terms:
+## Prohibited Uses
 
-### PERMITTED USES
+The following are **strictly prohibited**:
+- Any commercial use or financial gain
+- Selling, licensing, or commercializing the software
+- Providing paid services using this software
+- Integration into commercial products
+- Commercial training or consulting services
 
-You are granted a non-exclusive, non-transferable license to:
+## Legal Compliance
 
-✅ **Personal Use**: Use the Software for personal, non-commercial purposes
-✅ **Educational Use**: Use the Software for educational and learning purposes
-✅ **Research Use**: Use the Software for academic and scientific research
-✅ **Security Testing**: Use the Software for legitimate security testing and penetration testing
-✅ **Non-Profit Use**: Use by registered non-profit organizations for their activities
-✅ **Modification**: Modify the Software for the above permitted uses
-✅ **Distribution**: Distribute unmodified copies with this license intact
+You must:
+- Only test networks you own or have explicit written authorization for
+- Comply with all applicable laws and regulations
+- Respect privacy and data protection rights
+- Not use this software for unauthorized access or illegal activities
 
-### PROHIBITED USES
+## Terms & Conditions
 
-The following uses are strictly prohibited:
+**Attribution**: Preserve copyright notices and this license in all distributions.
 
-❌ **Commercial Use**: Any use of the Software for commercial purposes or financial gain
-❌ **Commercial Distribution**: Selling, licensing, or otherwise commercializing the Software
-❌ **Service Provision**: Using the Software to provide paid services to third parties
-❌ **Integration**: Incorporating the Software into commercial products or services
-❌ **Consulting**: Using the Software as part of paid consulting or professional services
-❌ **Training**: Using the Software in commercial training programs or courses
+**No Warranty**: This software is provided "AS IS" without warranty of any kind.
 
-### LEGAL COMPLIANCE
+**Limitation of Liability**: The author is not liable for any damages arising from use of this software.
 
-Users must:
+**Termination**: This license terminates automatically upon violation of any terms.
 
-🔒 Only use the Software on networks they own or have explicit written authorization to test
-🔒 Comply with all applicable local, national, and international laws
-🔒 Respect privacy rights and data protection regulations
-🔒 Follow responsible disclosure practices for security findings
-🔒 Not use the Software for illegal activities including but not limited to:
-   - Unauthorized access to computer systems
-   - Privacy violations
-   - Industrial espionage
-   - Malicious network activities
+## Commercial Licensing
 
-### CONDITIONS
-
-This license is granted under the following conditions:
-
-**Attribution**: Any distribution of the Software must include this license file and preserve all copyright notices.
-
-**No Warranty**: THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-
-**Limitation of Liability**: IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-**License Compatibility**: This Software may not be combined with software under licenses that would require commercial licensing of this Software.
-
-### TERMINATION
-
-This license automatically terminates if you violate any of its terms. Upon termination, you must cease all use of the Software and destroy all copies.
-
-### COMMERCIAL LICENSING
-
-For commercial use, enterprise licensing, or any use not explicitly permitted above, please contact:
-
-📧 Email: aminmoniry199@gmail.com
-🌐 Website: https://github.com/Amin-moniry-pr7
-
-Commercial licenses are available with different terms and conditions.
-
-### ENFORCEMENT
-
-Violation of this license may result in:
-- Immediate termination of your right to use the Software
-- Legal action to enforce these terms
-- Claims for damages and attorney fees
-
-### MODIFICATIONS TO LICENSE
-
-This license may only be modified by the copyright holders. Any modified versions of the Software must clearly indicate changes made and cannot remove or modify these license terms.
+For commercial use or enterprise licensing:  
+📧 aminmoniry199@gmail.com  
+🌐 https://github.com/Amin-moniry-pr7
 
 ---
 
-**This license is binding upon download, installation, or use of the Software.**
-
-**Version**: 3.0
-**Effective Date**: 2025
-**Governing Law**: This license is governed by the laws of [adc7_copyright]
-
-For questions about this license, contact: aminmoniry199@gmail.com
+**Version 3.0** | **Effective 2025**  
+By using this software, you agree to these terms.
